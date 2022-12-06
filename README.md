@@ -1,4 +1,4 @@
-<img style="margin:auto" src="https://clongrafico.com/wp-content/uploads/2019/08/diseno-paginas-web-madrid.gif">
+<img  src="https://clongrafico.com/wp-content/uploads/2019/08/diseno-paginas-web-madrid.gif">
 <h1 align="center">Hola Mundo!! 👋 me llamo Nestor Novella.</h1>
 
 <h3>Actualmente soy estudiante del BootCamp Soy Henry🧑‍🚀, en estos últimos 6 meses he mejorado mucho mis habilidades en la programación.
