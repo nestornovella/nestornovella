@@ -13,7 +13,6 @@
 
 <img src="./img/skills.png" alt="">
 
-<h4>Linkedin:</h4>
-<a href="https://www.linkedin.com/in/nestor-novella-1125b3215/"></a>
+<a href="https://www.linkedin.com/in/nestor-novella-1125b3215/">Linkedin...</a>
 
 
