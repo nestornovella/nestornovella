@@ -12,7 +12,7 @@
 
 <h2>Mis Skills:</h2>
 
-<img src="./img/skills.png" alt="">
+<img src="./img/skills2.png" alt="">
 
 <a href="https://www.linkedin.com/in/nestor-novella-1125b3215/">👉Linkedin...👀 💪</a>
 
