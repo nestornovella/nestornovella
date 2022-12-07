@@ -5,7 +5,7 @@
 <h3>Actualmente soy estudiante del BootCamp Soy Henry🧑‍🚀, en estos últimos 6 meses he mejorado mucho mis habilidades en la programación.
     Aprendí a crear paginas y aplicaciones web, cree un aplicacion de recetas (FOODS), tanto el Front como backEnd, y realice un trabajo grupal que fue la creación de un e-commerce.
 </h3>
-<h3>
+<h3 style="color: blue;">
     Me siento bastante seguro de todo lo que logré, y estoy ansioso por seguir mejorando mis habilidades🏋️‍♀️.
 </h3>
 
